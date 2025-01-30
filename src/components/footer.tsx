@@ -1,4 +1,4 @@
-import { SiFacebook, SiGithub, SiLinkedin, SiX } from 'react-icons/si'
+import { SiFacebook} from 'react-icons/si'
 import phone from '../assets/images/call.png'
 import address from '../assets/images/location.png'
 import mail from '../assets/images/mail.png'
@@ -42,8 +42,8 @@ export const Block = () => {
   )
 }
 
-const socialLinks = [
-  { href: 'https://x.com', icon: <SiX /> },
-  { href: 'https://github.com', icon: <SiGithub /> },
-  { href: 'https://www.linkedin.com', icon: <SiLinkedin /> },
-]
+// const socialLinks = [
+//   { href: 'https://x.com', icon: <SiX /> },
+//   { href: 'https://github.com', icon: <SiGithub /> },
+//   { href: 'https://www.linkedin.com', icon: <SiLinkedin /> },
+// ]
