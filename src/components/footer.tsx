@@ -14,7 +14,7 @@ export const Block = () => {
         </div>
         <div className='details'>
           <img src={phone} className='details-icon'></img>
-          0754286653
+          0755615686
         </div>
         <div className='details'>
           <img src={mail} className='details-icon'></img>
