@@ -41,9 +41,3 @@ export const Block = () => {
     </div>
   )
 }
-
-// const socialLinks = [
-//   { href: 'https://x.com', icon: <SiX /> },
-//   { href: 'https://github.com', icon: <SiGithub /> },
-//   { href: 'https://www.linkedin.com', icon: <SiLinkedin /> },
-// ]

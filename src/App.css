@@ -175,13 +175,7 @@
 }
 
 @media screen and (max-width: 600px) {
-  div {
-    width: 100%;
-  }
   .description-section {
-    width: 100%;
-  }
-  .multiple-card {
     width: 100%;
   }
   .column.side, .column.middle {
