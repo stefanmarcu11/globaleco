@@ -33,7 +33,7 @@ export const Block = () => {
       </div>
 
       <div className="column side">
-        <h2>Follow us</h2>
+        <h2>Urmăriți-ne</h2>
         <div className="column-side-right">
           <SiFacebook className='facebook-icon'></SiFacebook>
         </div>
